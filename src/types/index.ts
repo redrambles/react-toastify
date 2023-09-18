@@ -165,7 +165,7 @@ interface CommonOptions {
 
   /**
    * @deprecated
-   * ⚠️ Will be removed in the next major release. You can pass a react component with you handler instead.
+   * ⚠️ Will be removed in the next major release. You can pass a react component with your handler instead.
    *
    * Fired when clicking inside toaster
    */
